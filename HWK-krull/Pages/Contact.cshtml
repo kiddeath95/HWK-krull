@@ -1,0 +1,21 @@
+﻿@page
+@model HWK_krull.Pages.Contact
+
+@{
+    ViewData["Title"] = "Contact page";
+
+    var partOfDay = "morning";
+    if (DateTime.Now.Hour > 12)
+    {
+        partOfDay = "afternoon";
+    }
+
+    if (DateTime.Now.Hour > 18)
+    {
+        partOfDay = "evening";
+    }
+}
+
+<div class="text-center">
+    <p>Good @partOfDay, our contact page is still in development. Please be patient.</p>
+</div>
