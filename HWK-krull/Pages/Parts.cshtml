@@ -1,0 +1,50 @@
+﻿@page "{partName=RAM}/{Description?}/{CompatKey:regex(^[A-Za-z0-9._-]+$)?}"
+@model HWK_krull.Pages.Parts
+@{
+}
+
+<h1>@Model.PartName</h1>
+<p>@Model.Description</p>
+<p>Compatibility: <strong>@Model.CompatKey</strong></p>
+
+<!-- CPU: Socket-based compatibility -->
+<a asp-page="/Parts"
+   asp-route-partName="AMD-Ryzen-7-7800X3D"
+   asp-route-Description="gaming-cpu"
+   asp-route-CompatKey="AM5">AMD Ryzen 7 7800X3D — AM5</a><br />
+
+<!-- CPU Cooler: Matches CPU socket -->
+<a asp-page="/Parts"
+   asp-route-partName="Noctua-NH-D15"
+   asp-route-Description="dual-tower-air-cooler"
+   asp-route-CompatKey="AM5">Noctua NH-D15 — AM5</a><br />
+
+<!-- Motherboard: Socket is king; form factor is already implied elsewhere -->
+<a asp-page="/Parts"
+   asp-route-partName="ASUS-ROG-Strix-B650E-F"
+   asp-route-Description="atx-motherboard"
+   asp-route-CompatKey="AM5">ASUS ROG Strix B650E-F — AM5</a><br />
+
+<!-- SSD: M.2 size standard as the compat key -->
+<a asp-page="/Parts"
+   asp-route-partName="Samsung-990-Pro-2TB"
+   asp-route-Description="nvme-ssd"
+   asp-route-CompatKey="M.2-2280">Samsung 990 Pro 2TB — M.2-2280</a><br />
+
+<!-- GPU: Slot/interface standard -->
+<a asp-page="/Parts"
+   asp-route-partName="NVIDIA-RTX-4070-SUPER"
+   asp-route-Description="graphics-card"
+   asp-route-CompatKey="PCIe-4.0-x16">NVIDIA RTX 4070 SUPER — PCIe 4.0 x16</a><br />
+
+<!-- PSU: Physical standard for cases and motherboards -->
+<a asp-page="/Parts"
+   asp-route-partName="Corsair-RM850x"
+   asp-route-Description="80-plus-gold-psu"
+   asp-route-CompatKey="ATX">Corsair RM850x — ATX PSU</a><br />
+
+<!-- Memory: Generation is the decisive compatibility -->
+<a asp-page="/Parts"
+   asp-route-partName="G.Skill-Trident-Z5-32GB-6000"
+   asp-route-Description="ddr5-memory-kit"
+   asp-route-CompatKey="DDR5">G.Skill Trident Z5 32GB 6000 — DDR5</a><br />

@@ -9,49 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HWK_krull
 build_property.RootNamespace = HWK_krull
-build_property.ProjectDir = F:\RazorPages\HWK-krull\HWK-krull\
+build_property.ProjectDir = D:\Razor\HWK-krull\HWK-krull\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\RazorPages\HWK-krull\HWK-krull
+build_property.MSBuildProjectDirectory = D:\Razor\HWK-krull\HWK-krull
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Classes/Blank.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Classes/Blank.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xCbGFuay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Contact.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Error.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/CountryManager/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyeU1hbmFnZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Razor/HWK-krull/HWK-krull/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Index.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Privacy.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Parts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Razor/HWK-krull/HWK-krull/Pages/Presidents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc2lkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Razor/HWK-krull/HWK-krull/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/_ViewImports.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/_ViewStart.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RazorPages/HWK-krull/HWK-krull/Pages/Shared/_Layout.cshtml]
+[D:/Razor/HWK-krull/HWK-krull/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mo7murggge

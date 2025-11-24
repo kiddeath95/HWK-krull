@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HWK-krull")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1307ce0e501f779d33efb82278b6b12e8eac8b7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7b038a454f07ec22f25f5f4c7842bac8f22edf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HWK-krull")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HWK-krull")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RazorPages\\HWK-krull\\HWK-krull\\HWK-krull.csproj",
+      "projectUniqueName": "D:\\Razor\\HWK-krull\\HWK-krull\\HWK-krull.csproj",
       "projectName": "HWK-krull",
-      "projectPath": "F:\\RazorPages\\HWK-krull\\HWK-krull\\HWK-krull.csproj",
+      "projectPath": "D:\\Razor\\HWK-krull\\HWK-krull\\HWK-krull.csproj",
       "packagesPath": "C:\\Users\\kidde\\.nuget\\packages\\",
-      "outputPath": "F:\\RazorPages\\HWK-krull\\HWK-krull\\obj\\",
+      "outputPath": "D:\\Razor\\HWK-krull\\HWK-krull\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
